@@ -6,7 +6,7 @@ The Automated File Sorter is a Python-based project designed to organize files i
 •	The script scans the specified directory for files.
 •	It checks the file extension of each file and matches it with the predefined categories.
 •	Files are then moved to their respective folders based on their type.
-
+# dataset
 -  <a herf="https://github.com/LUJAINALALAWI/-Automated-File-Sorter-in-File-Explorer-Using-Python/blob/main/move.ipynb">dataset used</a>
 
 ## Benefits
